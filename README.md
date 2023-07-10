@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Fritz
+- 👀 I’m interested in working in IT Industry, I'm a graduating Computer Science Student.
+- 🌱 I’m currently learning Python
